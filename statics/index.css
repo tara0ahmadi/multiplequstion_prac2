@@ -1,0 +1,36 @@
+body{
+  background-color: rgb(14, 92, 92);
+  color: rgb(241, 241, 247);
+  font-size: large;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ 
+}
+.qb{
+    font-size: x-large;
+    color: rgb(244, 151, 205);
+}
+form{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+#btndone{
+    margin-top: 10px;
+    padding: 15px;
+    margin-left: 15px;
+    border-radius: 20%;
+    border: none;
+background-color: rgb(244, 151, 205);
+color: rgb(14, 92, 92);
+font-weight: bolder;
+cursor: pointer;
+}
+#result{
+
+text-align: center;
+font-size: xx-large;
+font-weight: bolder;
+margin-top: 100px;
+color: rgb(240, 11, 91);
+}
+
+
